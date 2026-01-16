@@ -46,7 +46,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RootPlatform/react-native-nitro-localize-date.git"
+    "url": "git+https://github.com/szt217/react-native-nitro-localize-date.git"
   },
   "author": "Job Paardekooper <job@jpsoftware.nl> (https://github.com/jobpaardekooper)",
   "contributors": [
@@ -54,9 +54,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RootPlatform/react-native-nitro-localize-date/issues"
+    "url": "https://github.com/szt217/react-native-nitro-localize-date/issues"
   },
-  "homepage": "https://github.com/RootPlatform/react-native-nitro-localize-date#readme",
+  "homepage": "https://github.com/szt217/react-native-nitro-localize-date#readme",
   "devDependencies": {
     "@react-native/eslint-config": "^0.75.2",
     "@release-it/conventional-changelog": "^8.0.1",
